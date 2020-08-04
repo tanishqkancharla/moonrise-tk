@@ -1,0 +1,5 @@
+# Matching form in a stream of information avoids friction
+
+In a stream of information, there is information being transferred from a "publisher" to a "subscriber". All this is saying is that the information being transferred should be in a form that's easy for the publishers to provide and easy for the subscribers to use so that both do not have to perform "translations" to the information to make them usable. These translations would increase friction and latency. How the information is transferred is a function of not only how the publishers provide it and how the subscribers ask for it but also the venue being used to transfer information.
+
+A (very meta) application of this idea are these: Evergreen notes. Me writing my thoughts and ideas are a stream of information. Applying the concept, my thoughts written in this form should also match how I think about them in my head. Although no one really knows how people think, I've found that using declarative titles like such and linking to other notes frequently is a great way of modeling my thinking.

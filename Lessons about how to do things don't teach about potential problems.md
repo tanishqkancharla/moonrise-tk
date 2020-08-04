@@ -1,0 +1,3 @@
+# Lessons about how to do things don't teach about potential problems
+
+I've noticed that a lot of things that are meant to teach people something like documentation on a tool or a classroom never teach people how to deal with problems or errors. Usually you are shown the ideal situation, and it can make sense while you're following it. However, when you try to reproduce it yourself, you almost always run into errors, and you don't know how to deal with that situation.

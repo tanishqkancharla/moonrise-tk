@@ -1,0 +1,5 @@
+# Using words as a minimum token instead of characters
+
+I feel like highlighting is so broken sometimes. Highlighting a string of words can be pretty difficult since it requires accuracy down to the space starting at the beginning of a word and the space after a word. That's a one character tolerance. Since most of the time, people don't start highlighting in the middle of a word (or at least they don't mean to), I'm wondering if you could turn the "minimum token" for writing as a word rather than a character. This would mean highlights starting in the middle of a word will highlight the whole word, making the "target" the whole word than just the end of a word.
+
+I think it should also mean that if you place your cursor in the middle of a word, it should highlight the whole word instead of just letting you edit in the middle of a word. This helps the problem of wanting to delete a word, since you don't have to navigate your cursor to the very end of a word.

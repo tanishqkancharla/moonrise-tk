@@ -1,0 +1,3 @@
+# Feelings are just thoughts we haven't understood yet
+
+You ever say to somebody "I know it seems right but something just *feels* off" or something along the same lines? I've said that a lot about many things. After thinking about it more, I'll realize later the explicit reason why I felt off. Therefore it seems to me like feelings come first and when they get understood consciously, they become thoughts. A lot of the ideas I have here start out as feelings but usually take day or two before I can narrow down the specific thought.

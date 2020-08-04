@@ -1,0 +1,5 @@
+# In AI, classification comes before object detection
+
+I think it's interesting how in Artificial intelligence, classification is typically considered an easier problem than object detection. If you split object detection into two separate parts: classification (identifying the object), and object location (locating the object), for humans, we learn object location first before we learn classification. As a baby, you can distinguish and separate objects visually before knowing what they are. 
+
+I think part of this does have to do with how humans process "video" not static images. With a constant feed of the objects around us, it seems it's easier for us to distinguish the separate objects, but with classification, it's largely the same situation as with artificial intelligence: we can't classify an object until we're told what it is.

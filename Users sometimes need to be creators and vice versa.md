@@ -1,0 +1,5 @@
+# Users sometimes need to be creators and vice versa
+
+So I think typically when we're creating something a product, one of the goals is to always make the experience as easy to use for the end user. Fundamentally, as things become simple, they become less powerful. For example Wordpress is a CMS that lets you create websites simply. Drupal is much more difficult to set up, difficult to use, but it's also quite a bit more powerful than Wordpress.
+
+Related to the prompt, I don't think there is a hard distinction between creators and users. People put on different hats. Sometimes they need to be a creator, sometimes a user. When you make a product and deliver it to people, I don't think you should just expect the users try not to "create" i.e. customize the interface, point out flaws etc. As they learn, they iterate: [[People improve solutions iteratively]]

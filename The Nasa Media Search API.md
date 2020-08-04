@@ -1,0 +1,18 @@
+# The Nasa Media Search API
+
+Growth: 🌲Evergreen
+Last Tended On: Jun 22, 2020 8:26 PM
+
+[](https://nasa-web-api.herokuapp.com/NasaWebApi.html)
+
+[NASA Web API](https://www.notion.so/NASA-Web-API-68fd9e04f20646c5bbdf36c570e413c9)
+
+The NASA Web API is a simple program on my website designed to let the user search the NASA media database, learn more about them, and favorite media they like in an intuitive, easy-to-use interface. This project was done as a submission to the Capital One Software Engineering Summit. It was my first time directly using Javascript and HTML (this website was built using the Wordpress CMS). I enjoyed the project a lot; it might be the most fun I’ve had on a software project ever. There are a few reasons for that.
+
+I found Javascript very easy to pick up. The syntax felt very similar to C, though it was as high-level and powerful as python. HTML and CSS less so, because it wasn’t similar to any other language I’ve used before, but the code still felt very intuitive. I found w3schools to be an invaluable resource, because they have no shortage of examples for every possible command, so that made it easy for me to learn.
+
+The project had an element of UI/UX design to it, and that made it really fun for me, because I loved thinking of ways to make my project more user-friendly. I thought of what I expected a feature to do in my project, and what feature I would find useful to add. For example, the “find similar” button was an example of a feature I thought would be useful when a user finds a particular result interesting and wants to see more media regarding it. Being able to modify the HTML and CSS also gave me freedom to flex what I’ve learned from my design hobby. I tried to keep things very minimal and functional but definitely didn’t skimp on adding some flair. For example, how the search bar underscores green when you click on it, or how an image slightly enlarges and darkens when you hover on it. Being able to combine computer science and design was one of the big reasons this project was enjoyable to me and how happy I am with the final project.
+
+This was the first real successful project I’ve done where it’s very dynamic. By that, I mean code I usually write for projects ends up outputting a number or several numbers, and it’s run on the terminal, etc. I could show it to someone, but they won’t really understand the impact until I explain the results. This project was different, because I could show it to someone, and they’d immediately understand the significance of what I’d done, and what my project is supposed to do, etc. It was also fun and interesting to see users could type in something that I hadn’t thought of before and I would see some new media I hadn’t seen before. It had functionality that I couldn’t immediately see. The reason for that though is just because it relies on NASA’s media database.
+
+If I had more time (or could figure out how), I would design a nice background for the server. Northing too fancy, maybe a dark blue solid with some stars here and there. I also want to change to dark blue and white. I would also change the color of the tab when someone hovers over the menu tab to dark blue, to fit the theme. I have a feeling that isn’t too hard, but since the menu was built using Elementor, I had a tough time trying to figure it out. The reason I thought that would be cool is that as I build more projects and they go into my website as different tabs, each of them could have a different color theme.
