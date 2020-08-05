@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Starting notes with a question is beneficial.md",
+            "file": "New concepts and ideas must be introduced slowly.md",
             "mode": "source"
           }
         }
@@ -46,7 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 652
+    "width": 240
   },
   "right": {
     "id": "4a478579455485a1",
@@ -72,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "New concepts and ideas must be introduced slowly.md",
+    "It's important for a product to be good even at it.md",
+    "Untitled.md",
     "Starting notes with a question is beneficial.md",
-    "A WYSIWYG Markdown editor.md",
-    "Using words as a minimum token instead of characte.md",
-    "Ways to think about ideas.md",
-    "Users sometimes need to be creators and vice versa.md"
+    "A WYSIWYG Markdown editor.md"
   ]
 }

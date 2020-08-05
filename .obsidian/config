@@ -1,5 +1,5 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "pluginEnabledStatus": {
     "File explorer": true,
     "Search": true,
@@ -10,5 +10,6 @@
     "Markdown format importer": true,
     "Word count": true,
     "Custom CSS": true
-  }
+  },
+  "fileSortOrder": "byModifiedTime"
 }
