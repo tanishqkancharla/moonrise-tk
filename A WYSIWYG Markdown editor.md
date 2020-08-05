@@ -20,4 +20,4 @@ Instead you can do something like notion and instead do a form of "on the fly" e
 
 It's tough figuring out how the edit the user made actually affected the markdown document without re-rendering the whole thing. You'd have to store the styled/unstyled text a different way than just an array of strings.
 
-Or, you could do what I'm
+Alright I've decided to do the sensible thing and before trying to implement this by myself in Swift, I'm learning more about how Prosemirror works. I want to be able to eventually build a similar Swift package, but that seems ages away; Prosemirror is a huge library.

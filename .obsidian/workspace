@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Content vs Structure.md",
+            "file": "A WYSIWYG Markdown editor.md",
             "mode": "source"
           }
         }
@@ -73,10 +73,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "A WYSIWYG Markdown editor.md",
+    "Building an Electron app in SwiftUI.md",
+    "Resources/The Arch of Life.md",
     "Content vs Structure.md",
-    "New concepts and ideas must be introduced slowly.md",
-    "It's important for a product to be good even at it.md",
-    "Untitled.md",
-    "Starting notes with a question is beneficial.md"
+    "Untitled.md"
   ]
 }
