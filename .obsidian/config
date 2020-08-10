@@ -11,5 +11,24 @@
     "Word count": true,
     "Custom CSS": true
   },
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "hotkeys": {
+    "theme:use-dark": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "`"
+      }
+    ],
+    "theme:use-light": [
+      {
+        "modifiers": [
+          "Ctrl",
+          "Shift"
+        ],
+        "key": "`"
+      }
+    ]
+  }
 }

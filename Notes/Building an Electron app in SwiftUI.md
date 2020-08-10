@@ -3,3 +3,4 @@ I thought more about my note taking app and I realized that if I want to make th
 
 Luckily I found the SwiftWASM project. Ideally, what I'm trying to get working is compile SwiftUI to WASM which can then be used in an Electron app. I feel like I'm thinking of such bold ideas with having basically zero experience in WASM and Electron and only a little experience with Swift, but if this works, this could honestly be a game-changer. 
 
+I'm thinking of approaching it differently first and build using Electron and Prosemirror.

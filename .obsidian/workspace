@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A WYSIWYG Markdown editor.md",
+            "file": "SwiftUI for Web.md",
             "mode": "source"
           }
         }
@@ -42,12 +42,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 240
+    "width": 326
   },
   "right": {
     "id": "4a478579455485a1",
@@ -73,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "A WYSIWYG Markdown editor.md",
+    "SwiftUI for Web.md",
     "Building an Electron app in SwiftUI.md",
-    "Resources/The Arch of Life.md",
-    "Content vs Structure.md",
-    "Untitled.md"
+    "Complexity scales linearly in well-designed mediums of creation.md",
+    "Using words as a minimum token instead of characters.md",
+    "Ways to think about ideas.md"
   ]
 }

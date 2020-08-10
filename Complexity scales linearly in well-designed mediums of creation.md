@@ -1,5 +1,0 @@
-# Complexity scales linearly in well-designed mediums of creation
-
-Frameworks like React, or Wordpress, or anything that is meant to be used for people to create things always advertise "Look how easy it is to create this!". I realized that the true measure of how easy a platform is to use isn't how easy it is to create a single beautiful looking app or page but instead how easy it stays as you try to make more difficult/complex projects
-
-For example, I could give you the code for a beautifully designed website, and point out using it would be as easy as copy-pasting the code. However, if you want to change the code (perhaps you want to use different colors or insert your own data), the complexity and difficulty to use spikes up. You might have to go through all of the source code to understand how to do something as simple as change the theme colors around.
