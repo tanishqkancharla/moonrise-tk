@@ -4,7 +4,7 @@ I'm a student at Carnegie Mellon University studying physics 🔭 and computer s
 
 This repository contains some random thoughts of mine. I'm currently working on an interface to display them.
 
-If you'd like to reach out to me, the best way is through my email (tkanchar@andrew.cmu.edu). If you'd like to learn more about me, my website is [moonrise.tk](www.moonrise.tk)
+If you'd like to reach out to me, the best way is through my email (tkanchar@andrew.cmu.edu). If you'd like to learn more about me, my website is [moonrise.tk](https://moonrise.tk)
 
 
 <!--
