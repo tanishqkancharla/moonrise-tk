@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a student at Carnegie Mellon University studying physics 🔭 and computer science 💻. In my free time, I play frisbee 🥏.
+
+This repository contains some random thoughts of mine. I'm currently working on an interface to display them.
+
+If you'd like to reach out to me, the best way is through my email (tkanchar@andrew.cmu.edu). If you'd like to learn more about me, my website is [moonrise.tk](www.moonrise.tk)
+
+
 <!--
 **moonrise-tk/moonrise-tk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
