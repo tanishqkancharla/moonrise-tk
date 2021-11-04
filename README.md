@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a student at Carnegie Mellon University studying physics 🔭 and computer science 💻. In my free time, I play frisbee 🥏.
+I'm a web developer currently looking for my next opportunity. I studied physics and computer science at Carnegie Mellon University. 
+
+In my free time, I love playing frisbee 🥏 and making lattes.
 
 This repository contains some random thoughts of mine. I'm currently working on an interface to display them.
 
-If you'd like to reach out to me, the best way is through my email (tkanchar@andrew.cmu.edu). If you'd like to learn more about me, my website is [moonrise.tk](https://moonrise.tk)
+If you'd like to reach out to me, the best way is through my email (tkanchar@alumni.cmu.edu). If you'd like to learn more about me, my website is [moonrise.tk](https://moonrise.tk)
 
 
 <!--
